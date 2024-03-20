@@ -1,0 +1,66 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: linear-gradient( gold, aqua,silver);
+    margin: auto;
+    flex-direction: column;
+    display: flex;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 45px;
+    text-shadow: 2px 2px 2px blueviolet;
+    width: auto;
+}
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 2px 2px blue;
+    padding: 15px;
+    font-size: 24px;
+    font-style: italic;
+}
+.PHOTO1{
+    margin: auto;
+    width: 75%;
+    margin-bottom: 55px;
+}
+.PHOTO2{
+    margin: auto;
+    width: 75%;
+    margin-bottom: 55px;
+}
+.PHOTO3{
+    margin: auto;
+    width: 75%;
+    margin-bottom: 55px;
+}
+.PHOTO1 img:hover{
+    filter: grayscale();
+}
+.PHOTO2 img:hover{
+    filter: saturate(5);
+}
+.PHOTO3 img:hover{
+    filter: blur(5px);
+}
+figcaption{
+    font-size: 20px;
+    font-weight: 600px;
+    text-align: center;
+    text-shadow: 2px 2px blue;
+    color: whitesmoke;
+}
+.PHOTO1 img{
+    width: 90%;
+}
+.PHOTO2 img{
+    width: 90%;
+}
+.PHOTO3 img{
+    width: 90%;
+}
