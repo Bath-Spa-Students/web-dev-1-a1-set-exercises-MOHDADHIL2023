@@ -58,11 +58,10 @@ p{
 }
 footer{
     background-color: rgb(91, 11, 165);
-    padding: 10px;
     text-align: center;
     color: whitesmoke;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 20px;
-    font-size: 20px;
+    padding: 2px;
+    font-size: 5px;
 
 }
