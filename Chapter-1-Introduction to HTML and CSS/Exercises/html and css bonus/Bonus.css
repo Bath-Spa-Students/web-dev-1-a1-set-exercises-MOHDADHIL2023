@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    background-color: whitesmoke;
+}
+header{
+    padding: 60px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 36px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 5px lime;
+    background-image: url("the-best-top-desktop-hd-dark-black-wallpapers-dark-black-wallpaper-dark-background-dark-wallpaper-23.jpg");
+    background-size: cover;
+}
+h2{
+    border: 8px solid black;
+    text-align: center;
+    width: 900px;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    margin: 40px;
+    border-style: inset;
+    color: aqua;
+    text-shadow: 2px 2px 2px black;
+    background-image: url("abstract-dark-background-with-blue-neon-glowing-vector.jpg");
+    background-size: cover;
+}
+h3{
+    text-shadow: 2px 2px 5px blue;
+    font-size: 36px;
+}
+p{
+    font-size: 20px;
+}
+pre, code{
+    font-size: 18px;
+}
+footer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    color: white;
+    padding: 40px;
+    font-size: 24px;
+    font-style: italic;
+    background-image: url("the-best-top-desktop-hd-dark-black-wallpapers-dark-black-wallpaper-dark-background-dark-wallpaper-23.jpg");
+    background-size: cover;
+}
