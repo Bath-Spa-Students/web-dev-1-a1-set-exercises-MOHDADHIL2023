@@ -1,3 +1,7 @@
+body{
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
@@ -12,7 +16,6 @@ header{
     background-color: goldenrod;
     text-align: center;
     padding: 20px;
-    border-radius: 25PX;
     border-style: dotted;
     border-color: orangered;
     background-blend-mode: color-burn;
@@ -84,11 +87,11 @@ footer {
     background-image: url(images.jpeg);
     text-align: center;
     padding: 20px;
-    border-radius: 25PX;
+    margin: auto;
     border-style: dotted;
     border-color: orangered;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
     text-align: center;
-    text-shadow: 2px 2px #ff0000
+    text-shadow: 2px 2px #ff0000;
 }
