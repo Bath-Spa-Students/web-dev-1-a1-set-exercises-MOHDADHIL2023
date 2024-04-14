@@ -5,6 +5,6 @@ function calculate(){
 
     var Total_Price = Petrol_Price_Per_Litre * Litre 
 
-    document.getElementById('petrol_purchased').innerHTML =  "DHS" + Total_Price;
+    document.getElementById('Total_Price').innerHTML =  "DHS" + Total_Price;
     
 }
